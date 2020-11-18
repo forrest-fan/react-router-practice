@@ -1,0 +1,21 @@
+.Navbar ul {
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.Navbar li {
+    list-style: none;
+    display: inline-block;
+    margin: 10px 20px;
+}
+
+.Navbar a {
+    text-decoration: none;
+    color: blue;
+}
+
+.Navbar a:hover {
+    color: green;
+}
